@@ -1,0 +1,14 @@
+C:\Users\Jeff\Desktop\Epicodus\wk11\Factory.Solution\bin\Debug\netcoreapp2.2\Factory.deps.json
+C:\Users\Jeff\Desktop\Epicodus\wk11\Factory.Solution\bin\Debug\netcoreapp2.2\Factory.runtimeconfig.json
+C:\Users\Jeff\Desktop\Epicodus\wk11\Factory.Solution\bin\Debug\netcoreapp2.2\Factory.runtimeconfig.dev.json
+C:\Users\Jeff\Desktop\Epicodus\wk11\Factory.Solution\bin\Debug\netcoreapp2.2\Factory.dll
+C:\Users\Jeff\Desktop\Epicodus\wk11\Factory.Solution\bin\Debug\netcoreapp2.2\Factory.pdb
+C:\Users\Jeff\Desktop\Epicodus\wk11\Factory.Solution\obj\Debug\netcoreapp2.2\Factory.csprojAssemblyReference.cache
+C:\Users\Jeff\Desktop\Epicodus\wk11\Factory.Solution\obj\Debug\netcoreapp2.2\Factory.csproj.CoreCompileInputs.cache
+C:\Users\Jeff\Desktop\Epicodus\wk11\Factory.Solution\obj\Debug\netcoreapp2.2\Factory.RazorAssemblyInfo.cache
+C:\Users\Jeff\Desktop\Epicodus\wk11\Factory.Solution\obj\Debug\netcoreapp2.2\Factory.RazorAssemblyInfo.cs
+C:\Users\Jeff\Desktop\Epicodus\wk11\Factory.Solution\obj\Debug\netcoreapp2.2\Factory.AssemblyInfoInputs.cache
+C:\Users\Jeff\Desktop\Epicodus\wk11\Factory.Solution\obj\Debug\netcoreapp2.2\Factory.AssemblyInfo.cs
+C:\Users\Jeff\Desktop\Epicodus\wk11\Factory.Solution\obj\Debug\netcoreapp2.2\Factory.RazorTargetAssemblyInfo.cache
+C:\Users\Jeff\Desktop\Epicodus\wk11\Factory.Solution\obj\Debug\netcoreapp2.2\Factory.dll
+C:\Users\Jeff\Desktop\Epicodus\wk11\Factory.Solution\obj\Debug\netcoreapp2.2\Factory.pdb

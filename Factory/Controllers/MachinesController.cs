@@ -18,7 +18,7 @@ namespace Factory.Controllers
 
     public ActionResult Index()
     {
-      return View(_db.Machines.ToList());4
+      return View(_db.Machines.ToList());
     }
 
     public ActionResult Create()
@@ -96,6 +96,15 @@ namespace Factory.Controllers
     {
       var thisMachine = _db.Machines.FirstOrDefault(machines => machines.MachineId == id);
       _db.Machines.Remove(thisMachine);
+      _db.SaveChanges();
+      return RedirectToAction("Index");
+    }
+
+    [HttpPost]
+    public ActionResult DeleteEngineer(int joinId)
+    {
+      var joinEntry = _db.EngineerMachine.FirstOrDefault(entry => entry.EngineerMachineId == joinId);
+      _db.EngineerMachine.Remove(joinEntry);
       _db.SaveChanges();
       return RedirectToAction("Index");
     }
