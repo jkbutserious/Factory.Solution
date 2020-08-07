@@ -36,10 +36,10 @@ This project uses C#, MySQL, Entity Framework, and MVC to create a web interface
 1. Open your preferred browser.
 2. Navigate to https://github.com/jkbutserious/Factory.Solution.git.
 3. Click the **Code** button and click **Download ZIP** to clone the repository to your computer.
-4. Open the Windows PowerShell console, VS Code Bash terminal, or the MacOS Terminal and use the ``cd [YOUR DOWNLOAD FILEPATH]/HairSalon.Solution/HairSalon`` command to navigate to the HairSalon subdirectory.
+4. Open the Windows PowerShell console, VS Code Bash terminal, or the MacOS Terminal and use the ``cd [YOUR DOWNLOAD FILEPATH]/Factory.Solution/Factory`` command to navigate to the Factory subdirectory.
 5. Use the ``dotnet restore`` command to install the necessary packages on your computer.
 6. Use the ``dotnet run`` command to run the program.
-7. Use the web interface to add stylists and clients and keep track of Claire's business.
+7. Use the web interface to add engineers and machines and keep track of Dr. Sneuss's factory.
 8. Ensure that the following code is present in your *appsettings.json* file:
 
     ```
