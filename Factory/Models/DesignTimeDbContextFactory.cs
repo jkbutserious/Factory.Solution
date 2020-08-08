@@ -5,7 +5,7 @@ using System.IO;
 
 namespace Factory.Models
 {
-  public class FacotryContextFactory: IDesignTimeDbContextFactory<FactoryContext>
+  public class FactoryContextFactory: IDesignTimeDbContextFactory<FactoryContext>
   {
 
     FactoryContext
