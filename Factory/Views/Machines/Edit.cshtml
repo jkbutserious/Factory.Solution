@@ -6,9 +6,9 @@
 
 <h2>Edit</h2>
 
-<h4>Edit this task: @Html.DisplayFor(model => model.Name)</h4>
+<h4>Edit this Machine: @Html.DisplayFor(model => model.Name)</h4>
 
-@using (Html.BeginForm("Index", "Engineers", FormMethod.Get))
+@using (Html.BeginForm())
 {
     @Html.HiddenFor(model => model.MachineId)
 
